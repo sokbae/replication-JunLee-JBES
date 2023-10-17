@@ -9,13 +9,14 @@ This folder contains files to replicate results from the following paper:
 Sung Jae Jun and Sokbae Lee. 2023. Causal Inference under Outcome-Based Sampling with Monotonicity Assumptions. <https://arxiv.org/abs/2004.08318>. Accepted for publication in _Journal of Business & Economic Statistics_.
 
 The latest version of the paper is included in this Github repository
-([see paper.pdf](https://github.com/sokbae/replication-JunLee-2023-JBES/blob/main/paper.pdf)).
+([see paper.pdf](https://github.com/sokbae/replication-JunLee-JBES/blob/main/paper.pdf)).
+
 
 ## Replication Code
 
 - The numerical results are produced using R. 
 
-- First, [download this repository](https://github.com/sokbae/replication-JunLee-2023-JBES/archive/main.zip). 
+- First, [download this repository](https://github.com/sokbae/replication-JunLee-JBES/archive/main.zip). 
 
 - Second, you need to install the `ciccr` package from [GitHub](https://github.com/) with:
 

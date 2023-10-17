@@ -27,7 +27,7 @@ devtools::install_github("sokbae/ciccr")
 
 - Note that the dataset used in Carvalho and Soares (2016) cannot be shared publicly for the privacy of individuals that participated in the study. Hence, "gangs_cleaned.dta" is not provided in this repo. To run the code without error, the data file needs to be located under the subdirectory "R_code/data".
 
-- All the numerical results can be obtained by running `run_all.R`. Once it is run, the results are saved under the subdirectory "R_code/results". To avoid the error message, two R files that use "gangs_cleaned.dta" are commented out.
+- All the numerical results can be obtained by running `run_all.R`. Before running it, create the subdirectory "R_code/results". Once it is run, the results are saved under the subdirectory "R_code/results". To avoid the error message, two R files that use "gangs_cleaned.dta" are commented out.
 
 ## Reference
 
